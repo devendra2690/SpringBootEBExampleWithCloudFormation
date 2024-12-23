@@ -1,0 +1,1 @@
+web: java -jar target/SpringBootEBExampleWithCloudFormation-0.0.1-SNAPSHOT.jar
