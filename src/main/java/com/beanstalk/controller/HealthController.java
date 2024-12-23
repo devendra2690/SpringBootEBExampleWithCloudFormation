@@ -11,7 +11,7 @@ public class HealthController {
 
     @GetMapping
     public ResponseEntity<String> healthStatus() {
-        return ResponseEntity.ok("Application is healthy");
+        return ResponseEntity.ok("Application is healthy, This is new version");
     }
 }
 
